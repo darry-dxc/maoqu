@@ -1,0 +1,209 @@
+.accountSafe-head{
+  background-color: #f0f0f0;
+}
+
+.safestep{
+  padding-top: 20px;
+}
+
+.account-grade{
+  width: 350px;
+  margin: 25px 20px;
+}
+
+.gradeText{
+  font-size: 16px;
+  color: green;
+}
+
+
+.infoText1{
+  float: left;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.personProgress{
+  width: 40%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30%;
+}
+
+.headerChanged{
+  font-size: 20px;
+  font-weight: 700;
+  color: #333;
+}
+
+
+.yesImg{
+  margin: 0 60px;
+  width: 50px;
+  height:50px;
+}
+
+.bodyFirst,.bodySecond,.bodyThird{
+  min-width: 1000px;
+  position: relative;
+  margin: 10px auto;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #c3b4b4;
+}
+
+
+.text1{
+  margin:0px 30px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.text2{
+  font-size: 16px;
+  color: green;
+  margin: 0 30px;
+}
+
+
+.textred{
+  font-size: 16px;
+  margin: 0 30px;
+  color: red;
+}
+
+.text3{
+  font-size: 16px;
+  color:#4C9BD9;
+  cursor: pointer;
+  position: absolute;
+  right:50px;
+  top: 50%;
+}
+
+/*密码验证表单样式*/
+.personCen-form{
+  margin-left: 30%;
+  margin-top: 20px;
+}
+
+.PCpasswordText,.PCveriCodeText{
+  font-size: 16px;
+
+}
+
+.el-input.PCpassword,.el-input.PCveriCode{
+  width: 300px;
+  height: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 5px 1px rgba(255 255 255 0.35);
+  float: left;
+}
+
+.Code{
+  float: left;
+  text-align: center !important;
+  background-color: #c0c4cc !important;
+  color:#f50303 !important;
+}
+
+.throughPhone,.throughMail{
+  color: #4C9BD9;
+  font-size: 14px;
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+/*手机验证表单样式*/
+.personCen-form{
+  margin-left: 30%;
+  margin-top: 20px;
+}
+
+.PCpasswordText,.PCveriCodeText{
+  font-size: 16px;
+
+}
+
+.PCpassword,.PCveriCode{
+  width: 300px;
+  height: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 5px 1px rgba(255 255 255 0.35);
+  float: left;
+}
+
+.Code{
+  float: left;
+  background-color: #4c9bd9;
+  color:#fff;
+}
+
+.throughPhone,.throughMail{
+  color: #4C9BD9;
+  font-size: 14px;
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.checkedPhone{
+  font-size: 16px;
+
+}
+
+/*邮箱验证表单样式*/
+.personCen-form{
+  margin-left: 30%;
+  margin-top: 20px;
+}
+
+.PCpasswordText,.PCveriCodeText{
+  font-size: 16px;
+
+}
+
+.PCpassword,.PCveriCode{
+  width: 300px;
+  height: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 5px 1px rgba(255 255 255 0.35);
+  float: left;
+}
+
+.Code{
+  float: left;
+  background-color: #4c9bd9;
+  color:#fff;
+  width: 50px;
+}
+
+.throughPhone,.throughMail{
+  color: #4C9BD9;
+  font-size: 14px;
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.checkedPhone{
+  font-size: 16px;
+
+}
+
+.passSuc,.phoneSuc,.emailSuc,.emailSucFinal{
+  margin-left: 20%;
+}
+
+.stepsDiv{
+  margin:10px auto;
+  height: 80px;
+  width: 90%;
+}
+.conDiv{
+  margin:10px auto;
+  height: auto;
+  width: 90%;
+}
+.mainCon{
+  margin:10px auto;
+  height: auto;
+  width: 70%;
+}

@@ -1,0 +1,298 @@
+@charset "UTF-8";
+/* base */
+html {
+  font-family:sans-serif,"\5FAE\8F6F\96C5\9ED1",arial;
+  font-size: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  position: relative;
+}
+
+ul, ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+div, p, dl, dt, dd {
+  margin: 0;
+  padding: 0;
+}
+
+li,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hgroup,
+p,
+blockquote,
+figure,
+form,
+fieldset,
+input,
+legend,
+pre,
+abbr,
+button {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+button {
+  background: none;
+  border: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  line-height: inherit;
+  overflow: visible;
+  vertical-align: inherit;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+/** font style **/
+.font-bold {
+  font-weight: bold;
+}
+
+.font-color-red {
+  color: #FF0000;
+}
+
+.font-color-orange {
+  color: #ee7a23;
+}
+
+.font-color-gray {
+  color: #605F5F;
+}
+
+.font-color-blue {
+  color: #2bc4e2;
+}
+
+.font-color-white {
+  color: #fff;
+}
+
+.font-color-black {
+  color: #333;
+}
+.font-color-666 {
+  color: #666;
+}
+.font-underline {
+  text-decoration: underline;
+}
+
+.font-link:hover {
+  opacity: .7;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-18 {
+  font-size: 18px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.font-size-24 {
+  font-size: 24px;
+}
+.font-size-28 {
+  font-size: 28px;
+}
+.font-size-32 {
+  font-size: 32px;
+}
+
+.font-size-36 {
+  font-size: 36px;
+}
+
+.font-size-48 {
+  font-size: 48px;
+}
+
+.font-size-60 {
+  font-size: 60px;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+/** 面包屑 **/
+.nav-breadcrumb {
+  padding: 10px 0;
+  line-height: 25px;
+  font-size: 14px;
+}
+
+.nav-breadcrumb a {
+  position: relative;
+  margin-right: 16px;
+  color: #999;
+}
+
+.nav-breadcrumb a:after {
+  position: absolute;
+  top: 3px;
+  right: -12px;
+  content: "/";
+  line-height: 1.2;
+}
+
+.nav-breadcrumb a:hover {
+  color: #d1434a;
+}
+
+.nav-breadcrumb span {
+  color: #d1434a;
+}
+
+.btn--orange, .btn--orange[href] {
+  background-color: #ee7a23;
+  border-color: #ee7a23;
+  color: #fff;
+}
+
+.btn--orange:hover, .btn--orange[href]:hover {
+  background-color: #faa363;
+}
+
+.btn--white, .btn--white[href] {
+  background: transparent;
+  border-color: #fff;
+  color: #d1434a;
+}
+
+.btn--white:hover, .btn--white[href]:hover {
+  background-color: #d1434a;
+  color: #fff;
+}
+
+.btn--red, .btn--red[href] {
+  background-color: #d1434a;
+  border-color: #d1434a;
+  color: #fff;
+}
+
+.btn--red:hover, .btn--red[href]:hover {
+  background-color: #f16f75;
+  border-color: #f16f75;
+  color: #fff;
+}
+
+.btn--gray-white, .btn--gray-white[href] {
+  border-color: #605F5F;
+  color: #605F5F;
+}
+
+.btn--gray-white:hover, .btn--gray-white[href]:hover {
+  background-color: #f0f0f0;
+}
+
+.btn--m {
+  height: 40px;
+  line-height: 40px;
+}
+
+.btn--s {
+  height: 35px;
+  line-height: 35px;
+  font-size: 12px;
+  letter-spacing: .1em;
+}
+	.button-bule-orange{
+		width: 80px;
+		font-size: 16px;
+		color: white !important;
+		height: 30px;
+		line-height: 8px !important;
+		text-align: center;
+		background: #999 !important;
+		border-radius: 5px;
+		border: none !important;
+	}
+	.button-bule-orange:hover{
+		background: #F7931D !important;
+	}
+	.button-bule-orange:active{
+		background: #F7931D !important;
+	}
+	.button-bule-orange:focus{
+		background: #F7931D !important;
+	}
+	.button-blue{
+		width: 80px;
+		font-size: 16px;
+		color: white !important;
+		height: 30px;
+		line-height: 8px !important;
+		text-align: center;
+		background: #4BABDE !important;
+		border-radius: 5px !important;
+	}
+
+  #checkButton{
+    margin: 10px;
+  }

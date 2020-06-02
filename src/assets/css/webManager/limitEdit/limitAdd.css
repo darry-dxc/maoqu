@@ -1,0 +1,24 @@
+.label {
+  width: 480px;
+  float: left;
+}
+.input {
+  width: 240px;
+}
+
+.type {
+  width: 720px;
+}
+.alert {
+  color: red;
+  float: left;
+}
+.cancel {
+  width: 100px;
+}
+.sure {
+  width: 100px;
+}
+.addBtn {
+  width: 100px;
+}

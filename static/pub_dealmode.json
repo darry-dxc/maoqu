@@ -1,0 +1,32 @@
+{
+    "RECORDS": [
+        {
+            "value": "1",
+            "label": "CIF"
+        },
+        {
+            "value": "2",
+            "label": "C&F"
+        },
+        {
+            "value": "3",
+            "label": "FOB"
+        },
+        {
+            "value": "4",
+            "label": "C&I"
+        },
+        {
+            "value": "5",
+            "label": "市场价"
+        },
+        {
+            "value": "6",
+            "label": "垫仓"
+        },
+        {
+            "value": "7",
+            "label": "EXW"
+        }
+    ]
+}

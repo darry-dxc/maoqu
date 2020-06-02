@@ -1,0 +1,78 @@
+
+#container{
+  min-width: 1000px;
+  background: #F7F7F7;
+}
+.data-head{
+  width: 100%;
+  height: 60px;
+}
+.data-top{
+  height: 20px;
+  padding: 5px 10px;
+  background: #FFF;
+  border-bottom: 1px solid #CCC;
+  color: #333;
+  font-size: 20px;
+}
+.data-head-label{
+  width: 40px ;
+  height: 30px ;
+  line-height: 30px;
+  margin: 10px;
+  float: left;
+}
+#data-head-select{
+  width: 140px;
+  height: 40px;
+  margin: 10px;
+  float: left;
+}
+#data-head-search{
+  width: 400px;
+  height: 40px;
+  margin: 10px;
+  float: left;
+}
+#data-head-look{
+  width: 100px;
+  height: 40px;
+  margin: 10px;
+  float: left;
+}
+.data-head-right{
+  width: 180px;
+  height: 40px;
+  margin: 10px;
+  float: right;
+  background: white;
+  text-align: center ;
+}
+.data-body{
+  width: 100%;
+  height: auto;
+}
+.data-buttom{
+  width: 100%;
+  height: 40px;
+  float: right;
+}
+.queryFullBtn{
+  float: right;
+}
+.backupBtn{
+  float: left;
+}
+.backupSelect{
+  float: right;
+  margin: 10px;
+  text-align:center;
+}
+.backupLabel{
+  float: right;
+  width: 40px ;
+  height: 30px ;
+  line-height: 30px;
+  margin: 10px;
+  text-align:center;
+}

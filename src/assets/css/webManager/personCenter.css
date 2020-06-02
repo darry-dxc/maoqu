@@ -1,0 +1,58 @@
+.personCenter-top{
+  margin: 10px 0;
+}
+
+.el-tabs.personTab{
+  width: 100%;
+  float: left;
+}
+
+.personProgress{
+  width: 40%;
+  margin-bottom: 30px;
+  margin-left: 30%;
+}
+
+.personCen-form,.personCen-form2{
+  margin-left: 30%;
+  margin-top: 20px;
+}
+
+.PCpasswordText,.PCveriCodeText{
+  font-size: 16px;
+  
+}
+
+.PCpassword,.PCveriCode{
+  width: 300px;
+  height: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 5px 1px rgba(255 255 255 0.35);
+  float: left;
+}
+
+.Code{
+  float: left;
+  text-align: center !important;
+  background-color: #c0c4cc !important;
+  color:#f50303 !important;
+}
+
+.el-input.PCname2,.el-input.PCpassword2,.el-input.PCveripassword2{
+  width: 300px;
+  height: 30px;
+}
+
+.textred{
+  color: red;
+}
+
+.text2{
+  font-size: 16px;
+  color: #333;
+  margin: 0 30px;
+}
+
+.updateSuc{
+  margin-left: 40%;
+}

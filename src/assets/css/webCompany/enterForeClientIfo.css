@@ -1,0 +1,55 @@
+	#container{
+		background: #F7F7F7;
+		font-family: FontAwesome;
+	}
+
+	.client-head{
+		width: 100%;
+		height: 60px;
+	}
+	.client-body{
+		width: 100%;
+		height: auto;
+
+	}
+	.client-buttom{
+		width: 100%;
+		height: 30px;
+		float: right;
+	}
+	.client-head-left{
+		width: 100px;
+		height: 30px;
+		margin: 10px;
+		float: left;
+	}
+	#client-head-look{
+		width: 100px;
+		height: 30px;
+		margin: 10px;
+		float: right;
+	}
+	.client-head-search{
+		height: 30px;
+		margin: 10px;
+		float: left;
+		border: 5px #000;
+	}
+	.commod-button{
+		width: 80px;
+		font-size: 16px !important;
+		color: white !important;
+		height: 30px;
+		background: #31A0DA !important;
+		border-radius: 5px;
+	}
+	.commod-button.is-disabled{
+		background: gainsboro !important;
+	}
+	.clint-search-lab{
+		font-size: 18px;
+		color: #333;
+		margin: 15px;
+		float: left;
+	}
+

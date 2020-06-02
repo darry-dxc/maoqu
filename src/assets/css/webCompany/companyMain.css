@@ -1,0 +1,29 @@
+
+/*带下拉：id="item111"无下拉：id="item11" 二级：id="title2"*/
+/*设置首页的标签页不能关闭*/
+.el-tabs__nav .el-tabs__item:nth-child(1) span{
+    display: none;
+}
+
+
+/*一级标题的字体*/
+#item1{
+  color: white ;
+  font-size: 18px;
+  font-weight: normal ;
+}
+#item11{
+ background-color:#4F6D8C;
+  font-size: 18px ;
+  line-height: 48px ;
+  height: 48px ;
+}
+
+#mainLeftNav{
+  width: 82.5%;
+  float: left;
+}
+.content-wrap{
+  width: 86.5% ;
+  float: right;
+}

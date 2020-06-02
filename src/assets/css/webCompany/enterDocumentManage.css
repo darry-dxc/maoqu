@@ -1,0 +1,89 @@
+#docucon{
+		min-width: 1000px;
+	}
+	.documentcon{
+		width: 100%;
+		height: 450px;
+		margin: 0 10px;
+	}
+	.document-header{
+		height: 50px;
+		border-bottom: 1px solid #797979;
+	}
+	.document-text{
+		width: 100%;
+		height: auto;
+	}
+	.docu-container{
+		margin-top: 20px;
+		width: 49%;
+		float: left;
+	}
+	#docucheckbox{
+		height: 30px;
+		width: 100%;
+		float: left;
+	}
+	#documenticon{
+		width: 30px;
+		height: 30px;
+		padding-top: 20px;
+		float: left;
+	}
+	.headtext{
+		font-size: 16px;
+		color: #333;
+		float: left;
+		padding-top: 30px;
+		margin: 0;
+	}
+	.form-item-lable{
+		height: 30px;
+		width: 460px;
+	}
+	#form-item-lable-edit{
+		height: 30px;
+		width: 600px;
+	}
+	.docu-setlable{
+
+	}
+	/*设置输入框无边*/
+	.form-inputNoboder{
+		border: 0;
+		width: 300px;
+	}
+	/*输入框边框设置*/
+	.form-inputWithboder{
+		
+	}
+	.docu-change-button{
+		width: 30px;
+		height: 30px;
+	}
+	.docu-upload-con{
+		height: 150px;
+	}
+	.docu-upload-con1{
+		height: 40px;
+	}
+	.docu-upload-left{
+		width: 210px;
+		float: left;
+		margin-top: 50px;
+		margin-left: 10px;
+		font-size: 14px;
+    	color: #606266;
+	}
+	.docu-upload-left1{
+		width: 210px;
+		float: left;
+		margin-top: 5px;
+		margin-left: 10px;
+		font-size: 14px;
+    	color: #606266;
+	}
+	.docu-upload-right{
+		float: left;
+		width: 300px;
+	}

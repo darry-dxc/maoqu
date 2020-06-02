@@ -1,0 +1,40 @@
+{
+    "RECORDS": [
+        {
+            "value": "1",
+            "label": "照章征税"
+        },
+        {
+            "value": "2",
+            "label": "折半征税"
+        },
+        {
+            "value": "3",
+            "label": "全免"
+        },
+        {
+            "value": "4",
+            "label": "特案"
+        },
+        {
+            "value": "5",
+            "label": "征免性质"
+        },
+        {
+            "value": "6",
+            "label": "保证金"
+        },
+        {
+            "value": "7",
+            "label": "保函"
+        },
+        {
+            "value": "8",
+            "label": "折半补税"
+        },
+        {
+            "value": "9",
+            "label": "全额退税"
+        }
+    ]
+}

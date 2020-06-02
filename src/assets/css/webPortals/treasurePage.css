@@ -1,0 +1,100 @@
+/*顶部图片区域*/
+  body {
+    margin: 0;
+    padding:0;
+    font-family: font-awesome;
+}
+#top{
+    min-width: 1000px;
+    height: 530px;
+    position: relative;
+}
+/*百宝箱顶部图片*/
+#divImage{
+    width: 100%;
+    height: 530px;
+    position: absolute;
+}
+#treasureImage{
+   height:100%;
+   width:100%;
+}
+/*图片的文字区域*/
+#imageText {
+    height: 48px;
+    position: relative;
+    line-height: 530px;/*使行高等于高度，文字即可在垂直方向居中*/
+    text-align: center;
+    font-size: 48px;
+    color: #FFFFFF;
+}
+#content{
+      min-width: 1000px;
+      position: relative;
+}
+
+/*右边导航部分*/
+#rightContent{
+    position: relative;
+    float: right;
+    width: 85%;
+    height: 48px;
+    background-color: rgba(228, 228, 228, 1);
+}
+#rightWrap{
+    position: relative;
+    float: right;
+    width: 85%;
+
+}
+#breadText{
+    position: absolute;
+    top: 25%;
+    line-height: center;
+    font-size: 20px;
+    color: #666;
+    margin-left: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+/*面包屑*/
+#breadNav {
+    position: absolute;
+    top: 30%;
+    margin-left: 130px;
+}
+/*侧边栏标题*/
+#treasureBox span{
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 1;
+    transition: none;
+    color: #666;
+}
+#treasureBox span:hover{
+    color:#666;
+}
+/*选择的当前标题*/
+#itemChecked span{
+    font-size: 20px;
+    color: #F49900;
+}
+/*搜索框*/
+#searchBox{
+    border-width: 1px;
+    position: absolute;
+    right: 0px;
+    top: 10%;
+    width: 300px;
+    height: 36px;
+}
+#inputText{
+    font-size: 18px;
+    color: #333;
+}
+#searchBox el-button{
+    background-color: rgba(244, 153, 0, 1);
+}
+#searchBtn{
+  color: red;
+}

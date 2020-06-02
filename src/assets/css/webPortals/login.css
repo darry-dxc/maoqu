@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+}
+.main {
+  min-width: 1200px;
+  background-size: 75% 100%;
+  padding-top: 70px;
+  background-repeat: no-repeat;
+  background-image: url("./../../../assets/images/portalsImg/login.png");
+  background-color: #FFB5B5;
+}
+.login{
+  width: 480px;
+  height: 430px;
+  padding-top: 50px;
+  margin-left: 50%;
+  background-color: white;
+}
+.loginForm {
+  width: 370px;
+  margin: 50px auto;
+}
+.loginTitle{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.loginInput {
+  width: 370px;
+}
+.loginSelect{
+  width: 280px;
+}
+.loginBtn{
+  width: 370px;
+  margin-top: 20px;
+}
+.loginInput{
+  margin-bottom: 15px;
+}
+.forgetPassword {
+  margin-left:2px;
+  font-size: 15px;
+}
+.forgetPassword:hover{
+  color: #409EFF;
+  text-decoration: underline;
+}

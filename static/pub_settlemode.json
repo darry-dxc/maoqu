@@ -1,0 +1,40 @@
+{
+    "RECORDS": [
+        {
+            "value": "1",
+            "label": "信汇"
+        },
+        {
+            "value": "2",
+            "label": "电汇"
+        },
+        {
+            "value": "3",
+            "label": "票汇"
+        },
+        {
+            "value": "4",
+            "label": "付款交单"
+        },
+        {
+            "value": "5",
+            "label": "承兑交单"
+        },
+        {
+            "value": "6",
+            "label": "信用证"
+        },
+        {
+            "value": "7",
+            "label": "先出后结"
+        },
+        {
+            "value": "8",
+            "label": "先结后出"
+        },
+        {
+            "value": "9",
+            "label": "其他"
+        }
+    ]
+}

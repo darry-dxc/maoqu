@@ -1,0 +1,121 @@
+body{
+  background-color: #f2f2f2;
+}
+  .userManage-top{
+    margin: 10px 0;
+  }
+
+  .userTab{
+    width: 100%;
+    float: left;
+  }
+
+  .userManage-selectText1{
+    font-family: FontAwesome;
+    font-size: 16px;
+    color: #333;
+  }
+
+  .userManage-selectText2{
+    float: left;
+    font-family: FontAwesome;
+    font-size: 16px;
+    color: #333;
+    margin: 7px 5px;
+  }
+
+  #userManage-option1,#userManage-option2{
+    margin: 20px 0;
+  }
+
+  .userManage-select{
+    float: left;
+  }
+
+  .el-input.userMan-searchBox1,.el-input.userMan-searchBox2{
+    float: left;
+    width: 150px;
+    height: 30px;
+    margin-left: 20px;
+  }
+
+  .userMan-searchButton{
+    width: 80px;
+    height: 30px;
+    font-size: 16px;
+    background-color: #31A0DA;
+    color: #FFF;
+    padding: 0;
+    text-align: center;
+    margin: 5px 10px;
+  }
+
+  .el-button.userMan-searchButton:hover,.el-button.userMan-searchButton.is-active,.el-button.userMan-searchButton:active,.el-button.userMan-searchButton:focus{
+    background-color: #4BABDE;
+    color:#FFF;
+  }
+
+  .searchAll{
+    float: right;
+  }
+
+  .addNewuser{
+    float: right;
+  }
+
+  .userManage-body{
+    margin-top: 30px;
+  }
+
+  .userManageTable1 th{
+    font-size: 14px;
+    background-color: #F2F2F2;
+    color: #333;
+    font-weight: 700;
+  }
+
+  .userManageTable2 th{
+    font-size: 14px;
+    background-color: #F2F2F2;
+    color: #333;
+    font-weight: 700;
+  }
+
+  .userManageTable1,.userManageTable2{
+    box-shadow: 1px 1px 2px 1px #f2f2f2;
+  }
+
+
+.inputName,.inputPhoneNumber,.inputID{
+  width: 70%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+
+.addLabel{
+  float: left;
+  margin-bottom: 10px;
+}
+
+.userCheckall{
+  float: left;
+  padding: 0;
+  margin: 0 5px;
+}
+
+.userCheckGro{
+  margin: 0 5px;
+}
+.userform {
+  width: 420px;
+  float: left;
+}
+.dateOrInput {
+  margin-left: 20px;
+  width: 420px;
+  height: 30px;
+  float: left;
+}
+.userFormInput{
+  width: 320px;
+}

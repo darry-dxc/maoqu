@@ -1,0 +1,95 @@
+
+	#container{
+		background: #F7F7F7;
+	}
+	
+	.idea-head{
+		width: 100%;
+		height: 60px;
+	}
+	.idea-body{
+		width: 100%;
+		height: auto;
+		
+	}
+	.idea-buttom{
+		width: 100%;
+		height: 40px;
+		float: right;
+	}
+	.idea-top{
+		height: 20px;
+		padding: 5px 10px;
+		background: #FFF;
+		border-bottom: 1px solid #CCC;
+		color: #333;
+		font-size: 20px;
+	}
+	.idea-head-right{
+		width: 80px;
+		height: 30px;
+		margin: 10px;
+		float: right;
+		background: white;
+	}
+	#idea-head-look{
+		width: 80px;
+		height: 30px;
+		margin: 10px;
+		float: left;
+	}
+	#idea-head-date{
+		margin: 10px;
+		float: left;
+	}
+	#idea-head-select{
+		width: 140px;
+		height: 30px;
+		margin: 10px;
+		float: left;
+	}
+	#idea-head-search{
+		width: 200px;
+		height: 30px;
+		margin: 10px;
+		float: left;
+		border: 5px #000;
+	}
+	.commod-button{
+		width: 80px;
+		font-size: 16px !important;
+		color: white !important;
+		height: 30px;
+		background: #31A0DA !important;
+		border-radius: 5px;
+	}
+	.commod-button.is-disabled{
+		background: gainsboro !important;
+	}
+	.edit-middle{
+		height: 80px;
+		padding-left: 15px;
+		border-bottom: 1px solid #CCC;
+	}
+	.edit-bottom{
+		height: 350px;
+	}
+	#idea-con{
+		margin: 20px;
+	}
+	.form-item-lable1{
+		height: 30px;
+		width: 280px;
+		float: left;
+		margin-bottom: 5px !important;
+	}
+	/*设置输入框无边*/
+	.form-inputNoboder{
+		border: 0;
+		width: 150px;
+	}
+	.idea-bottom-text{
+		height: 30px;
+		width: 100%;
+		text-align: left;
+	}

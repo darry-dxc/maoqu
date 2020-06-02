@@ -1,0 +1,29 @@
+
+.systemLogHeadRow{
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: #333;
+}
+.el-input.systemLog-searchBox1{
+  float: left;
+  width: 300px;
+  height: 30px;
+  margin: 10px  5px;
+}
+.systemLog-selectText1{
+  float: left;
+  line-height: 40px;
+  margin: 10px 10px;
+}
+.systemLog-select{
+  float: left;
+  margin: 10px 5px;
+}
+.systemLog-selectText2{
+  float: left;
+  line-height: 40px;
+  margin: 10px 5px;
+}
+.systemLogTimeSelect{
+  margin: 10px 5px;
+}

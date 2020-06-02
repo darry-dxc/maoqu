@@ -1,0 +1,115 @@
+/*整体界面大小及背景色，最小宽度给定1300，避免换行*/
+.clause{
+  min-width: 1300px;
+  width: 1366px;
+  height: 880px;
+  background-color: #F8F0E6;
+}
+/*标题样式*/
+.typeTitle{
+  text-align: center;
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 70px;
+}
+/*两个框的大小及样式*/
+.person,.company{
+  width: 490px;
+  height: 410px;
+  position: relative;
+  background-color: #FFF;
+  border-width: 5px;
+  box-shadow: 1px 1px 5px 3px #BCBCBC;
+  border-color: rgba(0,0,0,0.35);
+  padding: 0;
+  margin: 0 5%;
+}
+/*注册详情介绍，给定margin，避免文字太靠边*/
+.personText,.companyText{
+  margin: 30px;
+}
+/*个人注册框靠左*/
+.person{
+  float: left;
+}
+/*个人注册头部图片样式*/
+.personImg{
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  margin-left: 20px;
+}
+/*个人注册框头部边框实现分界线*/
+.personHead{
+  box-shadow: 1px 1px 1px 1px #BCBCBC;
+}
+/*个人两个字的样式*/
+.personName{
+  font-size: 22px;
+  color: #666;
+  margin: 0 10px;
+  position: absolute;
+  top:30px;
+  left:100px;
+}
+/*内容介绍样式*/
+.personInt{
+  font-size: 20px;
+  color: #333;
+}
+/*企业注册框靠右*/
+.company{
+  float: right;
+}
+/*企业框头部边框实现分界线*/
+.companyHead{
+  box-shadow: 1px 1px 1px 1px #BCBCBC;
+}
+/*企业注册框头部图片样式*/
+.companyImg{
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  margin-left: 20px;
+
+}
+
+/*企业两个字样式*/
+.companyName{
+  font-size: 22px;
+  color: #666;
+  display: inline-block; 
+  margin: 0 10px;
+  position: absolute;
+  top:30px;
+  left:100px;
+}
+/*企业注册框内容样式*/
+.companyInt{
+  font-size: 20px;
+  color: #333;
+}
+/*下方选择并继续样式*/
+.personLink,.companyLink{
+  width: 100%;
+  height: 50px;
+  text-align: right;
+  position: absolute;
+  top:359px;
+  box-shadow: 1px 1px 1px 2px #BCBCBC;
+}
+
+a{
+  text-decoration:none;
+}
+/*选择并继续这几个字的样式*/
+.linkText{
+  font-size: 22px;
+  color: #666;
+  margin: 15px 5px;
+}
+/*鼠标滑过选择并继续动画*/
+.linkText:hover{
+  color: #F49900;
+  cursor: pointer;
+}

@@ -1,0 +1,92 @@
+{
+    "RECORDS": [
+        {
+            "label": "港币",
+            "value": "HKD"
+        },
+        {
+            "label": "印度尼西亚卢比",
+            "value": "IDR"
+        },
+        {
+            "label": "日本元",
+            "value": "JPY"
+        },
+        {
+            "label": "澳门元",
+            "value": "MOP"
+        },
+        {
+            "label": "马来西亚林吉特",
+            "value": "MYR"
+        },
+        {
+            "label": "菲律宾比索",
+            "value": "PHP"
+        },
+        {
+            "label": "新加坡元",
+            "value": "SGD"
+        },
+        {
+            "label": "韩国元",
+            "value": "KRW"
+        },
+        {
+            "label": "泰国铢",
+            "value": "THB"
+        },
+        {
+            "label": "人民币",
+            "value": "CNY"
+        },
+        {
+            "label": "新台币",
+            "value": "TWD"
+        },
+        {
+            "label": "欧元",
+            "value": "EUR"
+        },
+        {
+            "label": "丹麦克朗",
+            "value": "DKK"
+        },
+        {
+            "label": "英镑",
+            "value": "GBP"
+        },
+        {
+            "label": "挪威克朗",
+            "value": "NOK"
+        },
+        {
+            "label": "瑞典克朗",
+            "value": "SEK"
+        },
+        {
+            "label": "瑞士法郎",
+            "value": "CHF"
+        },
+        {
+            "label": "俄罗斯卢布",
+            "value": "RUB"
+        },
+        {
+            "label": "加拿大元",
+            "value": "CAD"
+        },
+        {
+            "label": "美元",
+            "value": "USD"
+        },
+        {
+            "label": "澳大利亚元",
+            "value": "AUD"
+        },
+        {
+            "label": "新西兰元",
+            "value": "NZD"
+        }
+    ]
+}

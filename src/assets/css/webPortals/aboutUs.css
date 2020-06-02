@@ -1,0 +1,82 @@
+﻿	/*一级标题样式*/
+	.head1{
+		font-size: 36px;
+		color: #999;
+		font-family: FontAwesome;
+	}
+	/*二级标题样式*/
+	.head2{
+		font-size: 26px;
+		color: #666;
+		font-family: FontAwesome;
+	}
+	#headleft{
+		text-align: left;
+	}
+	/*正文样式*/
+	.text{
+		font-size: 18px;
+		color: #666;
+		font-family: FontAwesome;
+    margin: 25px 0;
+	}
+	.container{
+		overflow: hidden;
+		min-width: 1000px;
+	}
+	/*图片布局*/
+	#aboutUs-head{
+		height: 410px;
+		width: 100%;
+	}
+	/*中间部分布局*/
+	#aboutUs-mid{
+		width: 100%;
+		height: 150px;
+	}
+	/*内容文字布局*/
+	#aboutUs-con{
+		width: 100%;
+		height: 470px;
+	}
+	/*中间左边文字内容布局*/
+	.aboutUs-midLeft{
+		width: 33%;
+		height: 70px;
+		float: left;
+		text-align: center;
+		padding-top: 80px;
+	}
+	/*中间右边文字内容布局*/
+	.aboutUs-midRight{
+		height: 70px;
+		width: 100%;
+		padding-top: 80px;
+		padding-left: 50px;
+		text-align: left;
+	}
+	/*内容左边文字内容布局*/
+	.aboutUs-conLeft{
+		width: 33%;
+		height: 100%;
+		float: left;
+		text-align: center;
+		padding-top: 30px;
+
+	}
+	/*内容右边文字内容布局*/
+	.aboutUs-conRight{
+		height: 100%;
+		width: 90%;
+		padding-top: 30px;
+	}
+	/*分割线布局*/
+	#linel
+	{
+		margin-left: 20%;
+		margin-top: 15px;
+	}
+	#liner
+	{
+		margin-top: 15px;
+	}

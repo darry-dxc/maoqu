@@ -1,0 +1,492 @@
+{
+    "RECORDS": [
+        {
+            "value": "001",
+            "label": "台"
+        },
+        {
+            "value": "010",
+            "label": "张"
+        },
+        {
+            "value": "101",
+            "label": "立方尺"
+        },
+        {
+            "value": "011",
+            "label": "件"
+        },
+        {
+            "value": "110",
+            "label": "平方码"
+        },
+        {
+            "value": "111",
+            "label": "平方英尺"
+        },
+        {
+            "value": "112",
+            "label": "平方尺"
+        },
+        {
+            "value": "115",
+            "label": "英制马力"
+        },
+        {
+            "value": "116",
+            "label": "公制马力"
+        },
+        {
+            "value": "118",
+            "label": "令"
+        },
+        {
+            "value": "012",
+            "label": "支"
+        },
+        {
+            "value": "120",
+            "label": "箱"
+        },
+        {
+            "value": "121",
+            "label": "批"
+        },
+        {
+            "value": "122",
+            "label": "罐"
+        },
+        {
+            "value": "123",
+            "label": "桶"
+        },
+        {
+            "value": "124",
+            "label": "扎"
+        },
+        {
+            "value": "125",
+            "label": "包"
+        },
+        {
+            "value": "126",
+            "label": "箩"
+        },
+        {
+            "value": "127",
+            "label": "打"
+        },
+        {
+            "value": "128",
+            "label": "筐"
+        },
+        {
+            "value": "129",
+            "label": "罗"
+        },
+        {
+            "value": "013",
+            "label": "枝"
+        },
+        {
+            "value": "130",
+            "label": "匹"
+        },
+        {
+            "value": "131",
+            "label": "册"
+        },
+        {
+            "value": "132",
+            "label": "本"
+        },
+        {
+            "value": "133",
+            "label": "发"
+        },
+        {
+            "value": "134",
+            "label": "枚"
+        },
+        {
+            "value": "135",
+            "label": "捆"
+        },
+        {
+            "value": "136",
+            "label": "袋"
+        },
+        {
+            "value": "139",
+            "label": "粒"
+        },
+        {
+            "value": "014",
+            "label": "根"
+        },
+        {
+            "value": "140",
+            "label": "盒"
+        },
+        {
+            "value": "141",
+            "label": "合"
+        },
+        {
+            "value": "142",
+            "label": "瓶"
+        },
+        {
+            "value": "143",
+            "label": "千支"
+        },
+        {
+            "value": "144",
+            "label": "万双"
+        },
+        {
+            "value": "145",
+            "label": "万粒"
+        },
+        {
+            "value": "146",
+            "label": "千粒"
+        },
+        {
+            "value": "147",
+            "label": "千米"
+        },
+        {
+            "value": "148",
+            "label": "千英尺"
+        },
+        {
+            "value": "149",
+            "label": "百万贝可"
+        },
+        {
+            "value": "015",
+            "label": "条"
+        },
+        {
+            "value": "016",
+            "label": "把"
+        },
+        {
+            "value": "163",
+            "label": "部"
+        },
+        {
+            "value": "017",
+            "label": "块"
+        },
+        {
+            "value": "018",
+            "label": "卷"
+        },
+        {
+            "value": "019",
+            "label": "副"
+        },
+        {
+            "value": "002",
+            "label": "座"
+        },
+        {
+            "value": "020",
+            "label": "片"
+        },
+        {
+            "value": "021",
+            "label": "组"
+        },
+        {
+            "value": "022",
+            "label": "份"
+        },
+        {
+            "value": "023",
+            "label": "幅"
+        },
+        {
+            "value": "025",
+            "label": "双"
+        },
+        {
+            "value": "026",
+            "label": "对"
+        },
+        {
+            "value": "027",
+            "label": "棵"
+        },
+        {
+            "value": "028",
+            "label": "株"
+        },
+        {
+            "value": "029",
+            "label": "井"
+        },
+        {
+            "value": "003",
+            "label": "辆"
+        },
+        {
+            "value": "030",
+            "label": "米"
+        },
+        {
+            "value": "031",
+            "label": "盘"
+        },
+        {
+            "value": "032",
+            "label": "平方米"
+        },
+        {
+            "value": "033",
+            "label": "立方米"
+        },
+        {
+            "value": "034",
+            "label": "筒"
+        },
+        {
+            "value": "035",
+            "label": "千克"
+        },
+        {
+            "value": "036",
+            "label": "克"
+        },
+        {
+            "value": "037",
+            "label": "盆"
+        },
+        {
+            "value": "038",
+            "label": "万个"
+        },
+        {
+            "value": "039",
+            "label": "具"
+        },
+        {
+            "value": "004",
+            "label": "艘"
+        },
+        {
+            "value": "040",
+            "label": "百副"
+        },
+        {
+            "value": "041",
+            "label": "百支"
+        },
+        {
+            "value": "042",
+            "label": "百把"
+        },
+        {
+            "value": "043",
+            "label": "百个"
+        },
+        {
+            "value": "044",
+            "label": "百片"
+        },
+        {
+            "value": "045",
+            "label": "刀"
+        },
+        {
+            "value": "046",
+            "label": "疋"
+        },
+        {
+            "value": "047",
+            "label": "公担"
+        },
+        {
+            "value": "048",
+            "label": "扇"
+        },
+        {
+            "value": "049",
+            "label": "百枝"
+        },
+        {
+            "value": "005",
+            "label": "架"
+        },
+        {
+            "value": "050",
+            "label": "千只"
+        },
+        {
+            "value": "051",
+            "label": "千块"
+        },
+        {
+            "value": "052",
+            "label": "千盒"
+        },
+        {
+            "value": "053",
+            "label": "千枝"
+        },
+        {
+            "value": "054",
+            "label": "千个"
+        },
+        {
+            "value": "055",
+            "label": "亿支"
+        },
+        {
+            "value": "056",
+            "label": "亿个"
+        },
+        {
+            "value": "057",
+            "label": "万套"
+        },
+        {
+            "value": "058",
+            "label": "千张"
+        },
+        {
+            "value": "059",
+            "label": "万张"
+        },
+        {
+            "value": "006",
+            "label": "套"
+        },
+        {
+            "value": "060",
+            "label": "千伏安"
+        },
+        {
+            "value": "061",
+            "label": "千瓦"
+        },
+        {
+            "value": "062",
+            "label": "千瓦时"
+        },
+        {
+            "value": "063",
+            "label": "千升"
+        },
+        {
+            "value": "067",
+            "label": "英尺"
+        },
+        {
+            "value": "007",
+            "label": "个"
+        },
+        {
+            "value": "070",
+            "label": "吨"
+        },
+        {
+            "value": "071",
+            "label": "长吨"
+        },
+        {
+            "value": "072",
+            "label": "短吨"
+        },
+        {
+            "value": "073",
+            "label": "司马担"
+        },
+        {
+            "value": "074",
+            "label": "司马斤"
+        },
+        {
+            "value": "075",
+            "label": "斤"
+        },
+        {
+            "value": "076",
+            "label": "磅"
+        },
+        {
+            "value": "077",
+            "label": "担"
+        },
+        {
+            "value": "078",
+            "label": "英担"
+        },
+        {
+            "value": "079",
+            "label": "短担"
+        },
+        {
+            "value": "008",
+            "label": "只"
+        },
+        {
+            "value": "080",
+            "label": "两"
+        },
+        {
+            "value": "081",
+            "label": "市担"
+        },
+        {
+            "value": "083",
+            "label": "盎司"
+        },
+        {
+            "value": "084",
+            "label": "克拉"
+        },
+        {
+            "value": "085",
+            "label": "市尺"
+        },
+        {
+            "value": "086",
+            "label": "码"
+        },
+        {
+            "value": "088",
+            "label": "英寸"
+        },
+        {
+            "value": "089",
+            "label": "寸"
+        },
+        {
+            "value": "009",
+            "label": "头"
+        },
+        {
+            "value": "095",
+            "label": "升"
+        },
+        {
+            "value": "096",
+            "label": "毫升"
+        },
+        {
+            "value": "097",
+            "label": "英加仑"
+        },
+        {
+            "value": "098",
+            "label": "美加仑"
+        },
+        {
+            "value": "099",
+            "label": "立方英尺"
+        }
+    ]
+}

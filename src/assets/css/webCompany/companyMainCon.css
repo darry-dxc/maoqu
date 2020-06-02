@@ -1,0 +1,100 @@
+body{
+  background: #F0F0F0;
+}
+#person-contain{
+  min-width: 1000px;
+  height: 800px;
+}
+#personmain-top{
+  height: 200px;
+  margin: 20px 0;
+  border: 1px solid #E4E4E4;
+  background: white;
+}
+#personmain-middle{
+  height: auto;
+  background: #FFF;
+  margin: 10px;
+  border: 1px solid #E4E4E4;
+}
+#personmain-bottom{
+  height: 350px;
+  background: #FFF;
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 1px solid #E4E4E4;
+}
+/*分页布局*/
+.person-buttom{
+  width: 100%;
+  height: 30px;
+  float: right;
+}
+#person-top-image{
+  width: 170px;
+  height: 170px;
+  float: left;
+}
+#person-top-name{
+  height: 100px;
+  width: 200px;
+  float: left;
+  padding: 50px 30px;
+}
+/*按钮布局*/
+.person-head-left{
+  width: 180px !important;
+  height: 40px;
+  margin: 10px;
+  float: left;
+}
+/*搜索框布局*/
+#person-head-search{
+  width: 280px;
+  height: 30px;
+  margin: 10px;
+  float: right;
+  border: 5px #000;
+}
+/*查询按钮布局*/
+#person-head-look{
+  width: 80px;
+  height: 40px;
+  margin: 10px;
+  float: right;
+}
+.company-lable{
+	margin: 10px;
+	width: 140px;
+	float: left;
+}
+.search-height-30{
+  height: 30px !important;
+
+}
+.company-head{
+	width: 100%;
+	height: 60px;
+}
+.company-head1{
+	width: 100%;
+	height: 40px;
+}
+#company-top-button{
+  width: 200px;
+  float: right;
+  padding-top: 70px;
+}
+#newOrder-button{
+  height: 55px;
+  width: 180px;
+  border-radius: 5px;
+  background: #169BD5;
+  font-size: 18px;
+  color:white;
+}
+.login-checkboxc{
+	float: left;
+	padding-right: 30px;
+}

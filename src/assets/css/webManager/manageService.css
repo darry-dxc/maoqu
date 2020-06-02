@@ -1,0 +1,81 @@
+.service-top{
+  margin-left:20px;
+}
+
+.serviceTable{
+  box-shadow: 1px 1px 3px 3px #f2f2f2;
+}
+
+.addButton{
+  width: 105px;
+  height: 38px;
+  border-radius: 5px;
+  border: none;
+  font-size: 18px;
+  font-family: FontAwesome;
+  margin: 20px;
+  text-align: center;
+  background-color: rgba(76,155,217,0.8);
+  color: #fff;
+}
+
+.addButton:hover,.addButton:active,.addButton.is-active,.addButton:focus{
+  background-color: rgba(76,155,217,1);
+  color: #fff;
+}
+
+
+.serviceTable th>.cell {
+  font-size: 18px;
+  font-family: FontAwesome;
+  color: #333;
+  font-weight: 700;
+}
+
+
+.serviceTable th{
+  background-color: #f2f2f2;
+}
+
+
+.logoutEnsure__header{
+  background-color: #F2F2F2;
+  font-family: FontAwesome;  
+}
+
+.logoutEnsure{
+  font-size: 20px;
+  color:#666;
+  font-weight:700;
+}
+
+
+.logoutEnsure{
+  border-radius:3px;
+  box-shadow: 1px 3px 5px 3px #333;
+}
+
+.logoutEnsure{
+  color: #666;
+  font-size: 18px;
+}
+
+.cancleAdd,.ensureAdd{
+  width: 80px;
+  height: 35px;
+  border-radius: 3px;
+  font-family: FontAwesome;
+  font-size: 18px;
+  text-align: center;
+}
+
+.inputName,.inputPhoneNumber,.inputQQNumber{
+  width: 70%;
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+
+.addLabel{
+  float: left;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,69 @@
+/*整个主体的大小及背景色*/
+.clause{
+  width: 1366px;
+  height: 880px;
+  background-color: #F8F0E6;
+}
+/*标题样式*/
+.clauseTitle{
+  margin-bottom: 20px;
+  font-family: FontAwesome;
+  text-align: center;
+  font-size: 36px;
+  color: #333;
+}
+/*保证条款内容居中*/
+.textArea{
+  text-align: center;
+}
+/*条款所在框的背景及边框样式*/
+.clauseBox{
+  background-color: #FFF;
+  box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.35);
+}
+/*底部按钮整体样式*/
+.btn-group{
+  margin: 30px 10px;
+  text-align: center;
+  font-family: FontAwesome;
+}
+
+/*我拒绝按钮样式*/
+.refuse{
+  float: left;
+  width: 180px;
+  height: 50px;
+  margin-left: 30%;
+  font-size: 24px;
+  padding: 0;
+  background-color: rgba(255,255,255,0.9);
+  color: #666;
+  box-shadow: rgba(255,255,255,1);
+  border-radius:4px;
+  -moz-border-radius:4px;
+  cursor: pointer;
+  
+}
+/*鼠标滑过我拒绝按钮效果*/
+.refuse:hover{
+  background-color: rgba(255,255,255,1);
+}
+/*我接受按钮样式*/
+.accept{
+  float: left;
+  width: 180px;
+  height: 50px;
+  font-size: 24px;
+  border-radius:4px;
+  padding: 0;
+  margin-left: 10%;
+  color: #FFF;
+  box-shadow: rgba(76,155,217,1);
+  background-color: rgba(76,155,217,0.8);
+  -moz-border-radius:4px;
+  cursor: pointer;
+}
+/*鼠标滑过我接受按钮样式*/
+.accept:hover{
+  background-color: rgba(76,155,217,1);
+}

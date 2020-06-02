@@ -1,0 +1,82 @@
+/*最上面切换按钮样式*/
+  #displayType{
+   font-family: FontAwesome;
+   font-size: 16px;
+   color: #333;
+  }
+  /*两行显示文字样式*/
+.firstCol, .secondCol{
+  margin: 10px;
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: #333;
+}
+/*同行文字第二列的位置信息*/
+.textRight{
+  position: absolute;
+  left: 50%;
+}
+/*按钮组样式*/
+#infoType{
+  width: 80px;
+  height: 40px;
+  background-color: #f2f2f2;
+  font-family: FontAwesome;
+  font-size: 16px;
+}
+/*右边操作按钮样式*/
+#operationBtn{
+  margin: 0 10px;
+  float: right;
+  width: 80px;
+  height: 40px;
+  font-family: FontAwesome;
+  font-size: 16px;
+}
+#customForm{
+    height: 160px;
+
+  }
+#customMid{
+  height: 170px;
+	border: 1px solid #E4E4E4;
+}
+.serviceFormLeft{
+  line-height: 39px;
+}
+.undoService, .downloadService, .assessService{
+  margin: 0 ;
+}
+
+.serviceFormMid{
+  line-height: 39px;
+}
+.serviceFormMid{
+  line-height: 39px;
+}
+.customClearance{
+  height: 100px;
+  width: 80%;
+  float: left;
+  margin: 15px;
+}
+.customSchedule{
+  height: 120px;
+  width: 100%;
+  float: left;
+  vertical-align: central;
+  margin-top: 40px;
+}
+.auditOpinion{
+  float: right;
+  margin:45px 10px ;
+}
+.customCon{
+	width: 100%;
+	height: auto;
+	border: 1px solid #E4E4E4;
+	margin-bottom: 20px;
+}
+.buttonGroup1{
+	margin: 10px;
+}

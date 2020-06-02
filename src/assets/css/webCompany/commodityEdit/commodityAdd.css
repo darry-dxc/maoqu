@@ -1,0 +1,50 @@
+.label {
+  width: 480px;
+  float: left;
+}
+.input {
+  width: 230px;
+}
+.others {
+  width: 720px;
+}
+.elements {
+  width: 960px;
+}
+.search {
+  float: right;
+  color: #4C9BD9;
+  margin-left: 20px;
+  text-decoration: underline;
+}
+.type {
+  width: 720px;
+}
+.alert {
+  color: red;
+  float: left;
+}
+.cancel {
+  width: 100px;
+}
+.sure {
+  width: 100px;
+}
+.addBtn {
+  width: 100px;
+}
+.add {
+  height: 60px;
+}
+.elementsLabel {
+  border: 1px solid #E0E0E0;
+  text-align: center;
+}
+.addElements {
+  cursor: pointer;
+  border: 1px solid #E0E0E0;
+  text-align: center;
+}
+.red {
+  color: red;
+}

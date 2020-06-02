@@ -1,0 +1,34 @@
+
+/*满行输入框 */
+.labelLong {
+  width: 870px;
+}
+.inputName {
+  width: 240px;
+  float: left;
+}
+
+.inputLong {
+  width: 720px;
+}
+/*半行输入框 */
+.labelLeft {
+  width: 390px;
+  float: left;
+}
+.labelNature {
+  width: 138px;
+  height: 40px;
+  line-height: 40px;
+  float: left;
+  text-align: right;
+  padding: 0 12px 0 0;
+}
+/*半行输入框 */
+.labelRight {
+  width: 480px;
+  float: left;
+}
+.btn {
+  width: 100px;
+}

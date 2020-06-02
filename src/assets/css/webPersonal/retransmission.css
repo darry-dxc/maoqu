@@ -1,0 +1,13 @@
+.reText{
+	font-size: 16px;
+	margin:5px;
+	vertical-align: center;
+}
+
+#rowStyle{
+	margin-bottom:20px;
+}
+.redText{
+	font-size: 14px;
+	color: red;
+}

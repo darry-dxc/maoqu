@@ -1,0 +1,102 @@
+body{
+		background: #F0F0F0;
+	}
+	#person-contain{
+		min-width: 1000px;
+		height: 800px;
+		overflow: auto;
+	}
+	#personmain-top{
+		height: 200px;
+		margin: 0 10px;
+		border: 1px solid #E4E4E4;
+		background: white;
+	}
+	#personmain-middle{
+		height: auto;
+		background: #FFF;
+		margin: 10px;
+		border: 1px solid #E4E4E4;
+	}
+	#personmain-bottom{
+		height: auto;
+		background: #FFF;
+		margin-top: 50px;
+		margin-left: 10px;
+		margin-right: 10px;
+		border: 1px solid #E4E4E4;
+	}
+	/*分页布局*/
+	.person-buttom{
+		width: 100%;
+		height: 30px;
+		float: right;
+	}
+	#person-top-image{
+		width: 170px;
+		height: 170px;
+		float: left;
+	}
+	#person-top-name{
+		height: 100px;
+		width: 300px;
+		float: left;
+		padding: 50px 30px;
+	}
+	.person-head{
+		width: 100%;
+		height: 50px;
+	}
+	/*按钮布局*/
+	.person-head-left1{
+		width: 80px;
+		height: 30px;
+		margin: 10px;
+		float: left;
+	}
+	/*搜索框布局*/
+	#person-head-search{
+		width: 280px;
+		height: 30px;
+		margin: 10px;
+		float: right;
+		border: 5px #000;
+	}
+	/*查询按钮布局*/
+	#person-head-look{
+		width: 80px;
+		height: 30px;
+		margin: 10px;
+		float: right;
+	}
+	/*统计图布局*/
+	.bottom-con{
+		margin: 10px 30px;
+		width: 40%;
+		height: 400px;
+		float: left;
+		border: 1px solid #E4E4E4;
+	}
+	.bottom-title{
+		width: 100%;
+		height: 50px;
+		float: left;
+		padding-left: 10px;
+		margin-bottom: 10px;
+		background: #F0F0F0;
+		border: 1px solid #E4E4E4;
+	}
+	.search-height-30{
+		height: 30px !important;
+
+	}
+	#pieDataChart{
+		width: auto;
+		height: 350px;
+		margin: 0 10px;
+	}
+	#columnDataChart{
+		width: auto;
+		height: 350px;
+		margin: 0 10px;
+	}

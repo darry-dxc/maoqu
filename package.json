@@ -19,7 +19,7 @@
     "highcharts": "^6.1.0",
     "jquery": "^3.3.1",
     "js-base64": "^2.4.5",
-    "moment": "^2.22.1",
+    "moment": "^2.29.2",
     "qs": "^6.5.1",
     "vue": "^2.5.2",
     "vue-highcharts": "0.0.10",
